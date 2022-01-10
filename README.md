@@ -2,4 +2,4 @@
 
 For more information ,please visit site,
 
-https://thecodebuzz.com/best-practices-for-handling-exception-in-net-core-2-1/
+https://www.thecodebuzz.com/best-practices-for-handling-exception-in-net-core-2-1/
